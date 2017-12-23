@@ -1,6 +1,6 @@
 package periodic.main;
 
-public class DownsideUp {
+public class ProjectS {
 
 	public static boolean joshOnline = true;
 	public static boolean grantOnline = false;
