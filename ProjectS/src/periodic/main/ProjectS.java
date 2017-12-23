@@ -4,7 +4,7 @@ public class ProjectS {
 
 	public static boolean joshOnline = true;
 	public static boolean grantOnline = false;
-	public static boolean edwardOnline = true;
+	public static boolean edwardOnline = false;
 	public static boolean scottOnline = false;
 	
 	public static void main(String[] args) {
