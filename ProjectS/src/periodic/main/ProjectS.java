@@ -1,5 +1,9 @@
 package periodic.main;
 
+//This may appear yellow, but if it is red, something is wrong.
+//We also will not actually be using such a general import at any time.
+import org.lwjgl.*;
+
 public class ProjectS {
 
 	public static boolean joshOnline = true;
