@@ -31,6 +31,8 @@ public class ProjectS {
 		if (joshOnline && grantOnline && edwardOnline && scottOnline) {
 			System.out.println("Ready to go!");
 			new ProjectS().run();
+		} else {
+			System.out.println("No go");
 		}
 		
 	}
