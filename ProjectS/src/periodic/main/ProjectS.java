@@ -17,7 +17,7 @@ public class ProjectS {
 
 	//Please change the line with your name on it from 'false' to 'true'.
 	public static boolean joshOnline = true;
-	public static boolean grantOnline = true; //It worked
+	public static boolean grantOnline = true; //Lets try this
 	public static boolean edwardOnline = true;
 	public static boolean scottOnline = false;
 	
